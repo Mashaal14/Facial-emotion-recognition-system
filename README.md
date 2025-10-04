@@ -1,6 +1,3 @@
-# Facial-emotion-recognition-system
-Built a facial emotion recognition system that identified emotions images of human faces. Used a labeled dataset: FER-2013 from Kaagle which contained label images of facial expressions. I preprocessed the images, trained a convolutional neural network (CNN), and evaluate the model's accuracy in classifying emotions. 
-
 # Facial Emotion Recognition using CNN 🎭🤖  
 
 This project implements a **Facial Emotion Recognition (FER) system using a Convolutional Neural Network (CNN) trained on the FER-2013 dataset. The model classifies grayscale facial images (48x48) into seven emotion categories**:  
